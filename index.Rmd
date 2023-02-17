@@ -1,0 +1,35 @@
+---
+title: "Jenny Stern"
+image: "Jenny_PBsmall.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/jennifer-h-stern/"
+  - label: Twitter
+    url: "https://twitter.com/jennyhstern"
+  - label: GitHub
+    url: "https://github.com/jhstern"
+  - label: Email
+    url: "mailto:jhstern@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Jenny Stern studies polar bear foraging ecology and physiology.
+
+## Education
+
+**University of Washington** | Seattle, WA
+
+Ph.D. in Aquatic & Fishery Sciences | September 2016 - Present
+
+**University of Kansas** | Lawrence, KS
+
+B.S. in Ecology & Evolutionary Biology | September 2012 - May 2016
+
+## Research Cruise Experience
+
+**Oceans Melting Greenland (OMG) Narwhals and NASA survey of Melville Bay ** | Marine Mammal and Seabird Observer; Research Assistant | August - September 2019
+
+**Distributed Biological Observatory / Canada’s Three Oceans** | Lead Marine Mammal Observer | July - August 2019
