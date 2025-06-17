@@ -1,5 +1,5 @@
 ---
-title: "Jenny Stern"
+title: "Jennifer Stern, Ph.D."
 image: "Jenny_PBsmall.jpeg"
 links:
   - label: LinkedIn
@@ -14,13 +14,13 @@ output:
  
 ## Bio
 
-Jenny Stern is a PhD Candidate who studies polar bear foraging ecology and physiology. 
+Jenny Stern's dissertation focused on polar bear foraging ecology and physiology. 
 
 ## Education
 
 **University of Washington** | Seattle, WA
 
-Ph.D. in Aquatic & Fishery Sciences | September 2016 - Present
+Ph.D. in Aquatic & Fishery Sciences | September 2016 - December 2024
 
 **University of Kansas** | Lawrence, KS
 
