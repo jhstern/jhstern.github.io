@@ -4,12 +4,10 @@ image: "Jenny_PBsmall.jpeg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/jennifer-h-stern/"
-  - label: Twitter
-    url: "https://twitter.com/jennyhstern"
   - label: GitHub
     url: "https://github.com/jhstern"
   - label: Email
-    url: "mailto:jhstern@uw.edu"
+    url: "mailto:jenny.stern1@gmail.com"
 output:
   postcards::trestles
 ---
